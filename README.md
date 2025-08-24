@@ -1,16 +1,38 @@
-## Hi there 👋
+Hi, welcome! 👋
 
-<!--
-**fernandaSampaio/fernandaSampaio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Fernanda, a Brazilian currently living in Germany.
+I work as a Data Analyst, specializing in fraud prevention, and here you’ll find several projects and studies related to this field.
 
-Here are some ideas to get you started:
+Lately, I’ve been diving deeper into back-end development, with a strong focus on Java, as I continue to expand my skills beyond data analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 I enjoy sharing knowledge and exchanging ideas.
+
+☕ Always open to a virtual coffee or a good chat about tech and data!
+
+<div>
+<a href="https://github.com/fernandaSampaio">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandaSampaio&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandaSampaio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+## 🚀 Languages and Tools:
+
+<div>
+  <!-- Linguagens -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/4479A1/sql.png" alt="sql" width="40" height="40"/>
+
+  <!-- Visualização -->
+  <img src="https://img.icons8.com/color/48/tableau-software.png" alt="tableau" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png" alt="powerbi" width="40" height="40"/>
+</div>
+
+## Learning:
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+
+  ## Contatos:
+<div>
+<a href = "mailto:f.sampaiobarbosa2@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="linkedin.com/in/fbasampaio" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
