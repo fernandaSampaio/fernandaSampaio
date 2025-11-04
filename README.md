@@ -1,9 +1,6 @@
 Hi, welcome! 👋
 
-I am Fernanda, a Brazilian currently living in Germany.
 I work as a Data Analyst, specializing in fraud prevention, and here you’ll find several projects and studies related to this field.
-
-Lately, I’ve been diving deeper into back-end development, with a strong focus on Java, as I continue to expand my skills beyond data analysis.
 
 💡 I enjoy sharing knowledge and exchanging ideas.
 
