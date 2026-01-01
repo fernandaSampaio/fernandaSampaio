@@ -1,6 +1,5 @@
 Hi, welcome! 👋
 
- I am a Data Analyst transitioning into Software Development
 💡 I enjoy sharing knowledge and exchanging ideas.
 
 ☕ Always open to a virtual coffee or a good chat about tech and data!
