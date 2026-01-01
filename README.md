@@ -1,7 +1,6 @@
 Hi, welcome! 👋
 
-I work as a Data Analyst, specializing in fraud prevention, and here you’ll find several projects and studies related to this field.
-
+ I am a Data Analyst transitioning into Software Development
 💡 I enjoy sharing knowledge and exchanging ideas.
 
 ☕ Always open to a virtual coffee or a good chat about tech and data!
